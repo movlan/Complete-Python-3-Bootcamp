@@ -1,2 +1,6 @@
 def cap_text(text):
-    return text.title()  # replace .capitalize() with .title()
+    '''
+    Input a string
+    Output the capitalized string
+    '''
+    return text.title()
